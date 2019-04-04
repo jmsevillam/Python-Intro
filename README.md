@@ -13,4 +13,4 @@ This is the page of a series of lectures on the most fundamental concepts on pyt
       Slides [pdf](https://github.com/jmsevillam/Python-Intro/blob/master/Slides/Python%20Intro%20slides.pdf), [HTML](https://jmsevillam.github.io/slides/Python/Python%20Intro.slides.html#/)
 ### Support or Contact
 
-for further information `jsevilla@credicorpcapital.com`
+      for further information `jsevilla@credicorpcapital.com`
