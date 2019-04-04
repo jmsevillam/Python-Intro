@@ -1,7 +1,7 @@
 # `Python` Introduction
 
 
-To have access to `python` online, click on the [Binder](mybinder.org) link below
+To have access to `python` online, click on the [Binder](https://mybinder.org) link below
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmsevillam/Python-Intro/master)
 
