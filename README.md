@@ -11,6 +11,7 @@ Jupyter Lab: [![Binder](https://img.shields.io/badge/launch-binder-F5A252.svg?lo
 This is the page of a series of lectures on the most fundamental concepts on python so, here you will find slides, examples, data and more.
 
 1. (04.04.19) Python Introduction: interface, variables, conditionals, lists and loops!
+
       Slides [pdf](https://github.com/jmsevillam/Python-Intro/blob/master/Slides/Python%20Intro%20slides.pdf), [HTML](https://jmsevillam.github.io/slides/Python/Python%20Intro.slides.html#/)
 ### Support or Contact
 
