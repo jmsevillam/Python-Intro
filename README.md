@@ -22,4 +22,6 @@ This is the page of a series of lectures on the most fundamental concepts on pyt
       Slides [pdf](https://github.com/jmsevillam/Python-Intro/blob/master/Slides/Tutorial%20Pandas%20slides.pdf), [HTML](https://jmsevillam.github.io/slides/Python/Tutorial%20Pandas.slides.html#/)
 ### Support or Contact
 
-      for further information: Mauricio Sevilla: jsevilla@credicorpcapital.com, Alejandro Montaña: jamontana@credicorpcapital.com 
+> for further information: 
+> - Mauricio Sevilla: jsevilla@credicorpcapital.com
+> - Alejandro Montaña: jamontana@credicorpcapital.com 
