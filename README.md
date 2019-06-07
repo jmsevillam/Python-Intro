@@ -17,7 +17,9 @@ This is the page of a series of lectures on the most fundamental concepts on pyt
  3. (25.04.19) Python Introduction: Functions     
  
        Slides [pdf](https://github.com/jmsevillam/Python-Intro/blob/master/Slides/Python_functions%20slides.pdf), [HTML](https://jmsevillam.github.io/slides/Python/Python_functions.slides.html#/)
-      
+ 4. (06.06.19) Python Introduction: Pandas
+ 
+      Slides [pdf](https://github.com/jmsevillam/Python-Intro/blob/master/Slides/Tutorial%20Pandas%20slides.pdf), [HTML](https://jmsevillam.github.io/slides/Python/Tutorial%20Pandas.slides.html#/)
 ### Support or Contact
 
-      for further information `jsevilla@credicorpcapital.com`
+      for further information: Mauricio Sevilla: jsevilla@credicorpcapital.com, Alejandro Montaña: jamontana@credicorpcapital.com 
