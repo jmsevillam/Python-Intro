@@ -20,6 +20,9 @@ This is the page of a series of lectures on the most fundamental concepts on pyt
  4. (06.06.19) Python Introduction: Pandas
  
       Slides [pdf](https://github.com/jmsevillam/Python-Intro/blob/master/Slides/Tutorial%20Pandas%20slides.pdf), [HTML](https://jmsevillam.github.io/slides/Python/Tutorial%20Pandas.slides.html#/)
+ 5. (27.06.19) Python Introduction: Pandas
+ 
+      Slides [pdf](https://github.com/jmsevillam/Python-Intro/blob/master/Slides/Numpy_Basics%20slides.pdf)
 ### Support or Contact
 
 > for further information: 
