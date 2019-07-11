@@ -25,6 +25,7 @@ This is the page of a series of lectures on the most fundamental concepts on pyt
       Slides [pdf](https://github.com/jmsevillam/Python-Intro/blob/master/Slides/Numpy_Basics%20slides.pdf)
       
  6. (11.07.19) Numpy examples
+ 
       Slides [pdf](https://github.com/jmsevillam/Python-Intro/blob/master/Slides/Numpy%20slides.pdf), [HTML](https://jmsevillam.github.io/slides/Python/Numpy.slides.html#/)
 ### Support or Contact
 
